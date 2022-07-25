@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Hanzala</h1>
-<h3 align="center">Passionate towards data science,design and development technologies</h3>
+<h3 align="center">Passionate about data science, design and development technologies</h3>
 <img align="right" alt="Programming" width="300" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **QGIS-Drain-Watershed-Design**
