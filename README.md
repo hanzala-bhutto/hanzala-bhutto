@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about design and development technologies<br></br></h3>
 <img align="right" alt="Programming" width="300" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **QGIS-Watershed-Project, Development technologies**
+- 🔭 I’m currently working on **Design and Development technologies**
 
 - 🌱 I’m currently learning **Python, Software Engineering**
 
