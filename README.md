@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Design and Development technologies**
 
-- 🌱 I’m currently learning **Python, Software Engineering**
+- 🌱 I’m currently learning **Python, Dart, Software Engineering**
 
-- 💬 Ask me about **Tech, Games, Programming ,Software Engineering**
+- 💬 Ask me about **Tech, Programming ,Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
