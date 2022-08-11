@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Dart, Software Engineering**
 
-- 💬 Ask me about **Tech, Programming ,Software Engineering**
+- 💬 Ask me about **Tech, Games, Programming and Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
