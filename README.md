@@ -19,7 +19,7 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzala-bhutto&show_icons=true&locale=en&layout=compact" alt="hanzala-bhutto" /></p>
-<br />
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&show_icons=true&locale=en" alt="hanzala-bhutto" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&" alt="hanzala-bhutto" /></p>
