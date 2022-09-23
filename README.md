@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Design and Development technologies**
 
-- 🌱 I’m currently learning **Python, Dart, Software Engineering**
+- 🌱 I’m currently learning **The Methodologies of Software Engineering**
 
 - 💬 Ask me about **Tech, Games, Programming and Software Engineering**
 
