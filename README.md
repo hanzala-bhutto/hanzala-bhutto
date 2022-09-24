@@ -1,4 +1,4 @@
-<img alt=Programming width=100% height=10% src = "Simple Technology LinkedIn Banner updated.gif"><br></br>
+<img alt=Programming width=100% height=10% src = "Hero banner.gif"><br></br>
 <h1 align="center">Hi 👋, I am Hanzala</h1>
 <h3 align="center">I am passionate about design and development technologies<br></br></h3>
 <img align="right" alt="Programming" width="300" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
