@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tech, Games, Programming and Software Engineering**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style='color:red'>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hanzala-bhutto-a10936234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanzala-bhutto-a10936234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pro-gamer2315xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pro-gamer2315xo" height="30" width="40" /></a>
