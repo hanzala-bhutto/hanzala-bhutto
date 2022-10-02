@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **design and development technologies**
 
-- 🌱 I’m currently learning **Software Engineering and Web Development technologies**
+- ➡️ I'm currently pursuing a degree in **Software Engineering**
+
+- 🌱 I’m currently learning **Web Development technologies**
 
 - 💬 Ask me about **Software engineering, Technology and Games**
 
