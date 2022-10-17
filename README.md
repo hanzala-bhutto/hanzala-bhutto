@@ -6,7 +6,7 @@
 
 - ➡️ I'm currently pursuing a degree in **Software Engineering**
 
-- 🌱 I’m currently learning **Web Development technologies**
+- 🌱 I’m currently learning **Web Development technologies, React**
 
 - 💬 Ask me about **Software engineering, Technology and Games**
 
