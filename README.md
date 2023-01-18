@@ -22,8 +22,14 @@
 
 <!-- ![Hanzala's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&show_icons=true&theme=radical) -->
 <!-- https://github-readme-stats.vercel.app/api?username=[hanzala-bhutto] -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=[hanzala-bhutto]" alt="hanzala-bhutto" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=[hanzala-bhutto]" alt="hanzala-bhutto" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&show_icons=true&locale=en" alt="hanzala-bhutto" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&show_icons=true&locale=en" alt="hanzala-bhutto" /></p>
+<p align="left">
+<a href="https://github.com/hanzala-bhutto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzala-bhutto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzala-bhutto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&" alt="hanzala-bhutto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&layout=compact" alt="hanzala-bhutto" /></p>
