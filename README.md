@@ -1,6 +1,6 @@
 <img alt=Programming width=100% height=10% src = "Hero Banner.gif"><br></br>
 <h1 align="center">Hello There 👋, I am Hanzala</h1>
-<h3 align="center">I have keen interest in Design and Development Technologies</h3>
+<h3 align="center">I have keen interest in Web Development(React-Redux) Technologies</h3>
 
 - 🔭 I’m currently working on **design and development technologies**
 
