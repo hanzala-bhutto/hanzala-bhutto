@@ -24,40 +24,42 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+#### Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp)](https://skillicons.dev)
 
-### Frontend Development
+#### Frontend Development
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next,angular,threejs,redux)](https://skillicons.dev)
 
-### Backend Development
+#### Backend Development
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
-### DBMS
+#### DBMS
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
 
-### Testing
+#### Testing
 
 [![My Skills](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
 
-### Miscellaneous
+#### Miscellaneous
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell)](https://skillicons.dev)
 
 
 ## 📊 Github Stats
 
-<!-- ![Hanzala's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&show_icons=true&theme=radical) -->
+<p align="center">
+<a href="https://github.com/hanzala-bhutto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzala-bhutto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzala-bhutto&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
-<div class="center">
-
-![](https://github-readme-stats.vercel.app/api?username=hanzala-bhutto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&theme=radical&hide_border=false)<br/>
-
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzala-bhutto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://github.com/hanzala-bhutto">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&theme=radical&hide_border=false"/>
+</a>
+</p>
