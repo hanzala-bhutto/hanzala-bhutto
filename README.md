@@ -1,4 +1,5 @@
-<img alt=Programming width=100% height=10% src = "Hero Banner.gif"><br></br>
+<img alt=Programming width=100% height=10% src="Hero Banner.gif">
+<hr></hr>
 
 - 🔭 I’m currently working on **React / Redux / Nest Projects**
 - 🌱 I’m currently learning **Redux / NEST / System Design**
