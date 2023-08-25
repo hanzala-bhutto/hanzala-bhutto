@@ -3,15 +3,10 @@
 <h3 align="center">I have keen interest in Web Development Technologies</h3>
 
 - 🔭 I’m currently working on **React / Redux / Nest Projects**
-
 - 🌱 I’m currently learning **Redux / NEST / System Design**
-
 - 👯 I’m looking to collaborate on **MERN Projects**
-
 - 💬 Ask me about **Technology, Data Structures and Algorithms**
-
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
-
 - ⚡ Fun fact **Graph your Problem**
 
 ## 🔗 Connect with me
