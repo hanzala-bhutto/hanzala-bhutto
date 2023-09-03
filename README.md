@@ -16,7 +16,7 @@
 <a href="https://twitter.com/hanzala_bhutto">
   <img align="left" alt="Hanzala's Twitter" width="24px" src="https://cdn.simpleicons.org/x/C2C2C4" />
 </a>
-<a href="https://www.instagram.com/hanz_bhutto">
+<a href="https://www.instagram.com/hanz.bhutto">
   <img align="left" alt="Hanzala's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/C2C2C4" />
 </a>
 <a href="https://www.leetcode.com/hanz-0277xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanz-0277xo" height="30" width="40" /></a>
