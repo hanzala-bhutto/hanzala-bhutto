@@ -24,17 +24,13 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next,angular,threejs,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next,angular,threejs,redux&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,sqlite,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell,jest,postman&theme=dark)](https://skillicons.dev)
 
 
 ## 📊 Github Stats
