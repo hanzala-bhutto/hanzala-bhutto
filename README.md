@@ -18,27 +18,15 @@
 
 ## 🛠️ Tech Stack
 
-#### Programming Languages
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp)](https://skillicons.dev)
-
-#### Frontend Development
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next,angular,threejs,redux)](https://skillicons.dev)
 
-#### Backend Development
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
-
-#### DBMS
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
 
-#### Testing
-
 [![My Skills](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
-
-#### Miscellaneous
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell)](https://skillicons.dev)
 
