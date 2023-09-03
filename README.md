@@ -45,3 +45,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&theme=radical&hide_border=false"/>
 </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/hanzala-bhutto">
+  <img height="180em" src="https://leetcard.jacoblin.cool/Hanz-0277xO?theme=dark"/>
+</a>
+</p>
