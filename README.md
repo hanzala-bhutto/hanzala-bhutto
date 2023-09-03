@@ -10,9 +10,15 @@
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://twitter.com/hanzala_bhutto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzala_bhutto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanzala-bhutto-a10936234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanzala-bhutto-a10936234" height="30" width="40" /></a>
-<a href="https://instagram.com/hanz_bhutto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanz_bhutto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hanzala-bhutto-a10936234">
+  <img align="left" alt="Hanzala's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
+</a>
+<a href="https://twitter.com/hanzala_bhutto">
+  <img align="left" alt="Hanzala's Twitter" width="24px" src="https://cdn.simpleicons.org/x/C2C2C4" />
+</a>
+<a href="https://www.instagram.com/hanz_bhutto">
+  <img align="left" alt="Hanzala's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/C2C2C4" />
+</a>
 <a href="https://www.leetcode.com/hanz-0277xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanz-0277xo" height="30" width="40" /></a>
 </p>
 
