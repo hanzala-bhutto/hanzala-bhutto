@@ -30,7 +30,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,sqlite,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell,jest,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio,replit,powershell,jest,postman,figma&theme=dark)](https://skillicons.dev)
 
 
 ## 📊 Github Stats
