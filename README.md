@@ -1,8 +1,8 @@
 <img alt=Programming width=100% height=10% src="Hero Banner.gif">
 <hr></hr>
 
-- 🔭 I’m currently working on **React / Nest Projects**
-- 🌱 I’m currently learning **Redux / NEST / System Design**
+- 🔭 I’m currently working on **React / Next / Vite / Nest Projects**
+- 🌱 I’m currently learning **Backend Architecture / System Design**
 - 👯 I’m looking to collaborate on **MERN Projects**
 - 💬 Ask me about **Technology,Software Engineering, Data Structures and Algorithms**
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
