@@ -1,9 +1,9 @@
 <img alt=Programming width=100% height=10% src="Hero Banner.gif">
 <hr></hr>
 
-- 🔭 I’m currently working on **Backend / Nest Projects**
-- 🌱 I’m currently learning **Backend Architecture / System Design**
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 🔭 I’m currently working on **Backend & Generative AI**
+- 🌱 I’m currently learning **Backend Architecture / System Design & LLM Langchain / AWS Bedrock**
+- 👯 I’m looking to collaborate on **Langchain / OpenAI Projects**
 - 💬 Ask me about **Technology,Software Engineering, Data Structures and Algorithms**
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
 - ⚡ Fun fact **Graph your Problem**
