@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Backend & Generative AI**
 - 🌱 I’m currently learning **Backend Architecture / System Design & LLM Langchain / AWS Bedrock**
 - 👯 I’m looking to collaborate on **Langchain / OpenAI Projects**
-- 💬 Ask me about **Technology,Software Engineering, Data Structures and Algorithms**
+- 💬 Ask me about **Technology, Software Engineering, Data Structures and Algorithms**
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
 - ⚡ Fun fact **Graph your Problem**
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://github.com/hanzala-bhutto">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzala-bhutto&theme=radical&hide_border=false"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=hanzala-bhutto&theme=radical"/>
 </a>
 </p>
 
