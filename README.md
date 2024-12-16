@@ -1,12 +1,12 @@
 <img alt=Programming width=100% height=10% src="Hero Banner.gif">
 <hr></hr>
 
-- 🔭 I’m currently working on **Backend & Generative AI**
-- 🌱 I’m currently learning **Backend Architecture / System Design & LLM Langchain / AWS Bedrock**
-- 👯 I’m looking to collaborate on **Langchain / OpenAI Projects**
+- 🔭 I’m currently working on **Backend, Distributed Systems & Generative AI**
+- 🌱 I’m currently learning **Backend Architecture / System Design & LLM**
+- 👯 I’m looking to collaborate on **Distributed Systems & Generative AI Projects**
 - 💬 Ask me about **Technology, Software Engineering, Data Structures and Algorithms**
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
-- ⚡ Fun fact **Graph your Problem**
+- ⚡ Fun fact **You can find a graph even by looking at the stars**
 
 ## 🔗 Connect with me
 <p align="left">
