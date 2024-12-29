@@ -2,7 +2,7 @@
 <hr></hr>
 
 - 🔭 I’m currently working on **Frontend, Backend, Distributed Systems & Generative AI**
-- 🌱 I’m currently learning **Backend Architecture / System Design & LLM**
+- 🌱 I’m currently learning **Backend Architecture / System Design & LLM RAG**
 - 👯 I’m looking to collaborate on **Distributed Systems & Generative AI Projects**
 - 💬 Ask me about **Technology, Software Engineering, Data Structures and Algorithms**
 - 📫 How to reach me **bhutto.hanzala@gmail.com**
