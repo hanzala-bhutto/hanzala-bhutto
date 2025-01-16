@@ -10,9 +10,6 @@
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/hanzala-bhutto-a10936234">
-  <img align="left" alt="Hanzala's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
-</a>
 <a href="https://www.xing.com/profile/Hanzala_Bhutto">
   <img align="left" alt="Hanzala's Xing" width="24px" src="https://cdn.simpleicons.org/xing/C2C2C4" />
 </a>
