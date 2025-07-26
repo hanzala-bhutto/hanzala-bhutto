@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Backend Architecture / System Design & LLM RAG**
 - 👯 I’m looking to collaborate on **Distributed Systems & Generative AI Projects**
 - 💬 Ask me about **Technology, Software Engineering, Data Structures and Algorithms**
-- 📫 How to reach me **bhutto.hanzala@gmail.com**
 - ⚡ Fun fact **You can find a graph even by looking at the stars**
 
 ## 🔗 Connect with me
