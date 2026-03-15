@@ -1,11 +1,11 @@
 <img alt=Programming width=100% height=10% src="Hero Banner.gif">
 <hr></hr>
 
-- 🔭 I’m currently working on **Frontend, Backend, Distributed Systems & Generative AI**
-- 🌱 I’m currently learning **Backend Architecture / System Design & LLM RAG**
-- 👯 I’m looking to collaborate on **Distributed Systems & Generative AI Projects**
-- 💬 Ask me about **Technology, Software Engineering, Data Structures and Algorithms**
-- ⚡ Fun fact **You can find a graph even by looking at the stars**
+- 🔭 I’m currently working on **LLM applications, scalable backend systems, and developer-facing AI tools**
+- 🌱 I’m currently learning **high-scale system design, distributed architecture, and retrieval-augmented generation (RAG)**
+- 👯 I’m looking to collaborate on **AI Engineering, RAG pipelines, and distributed backend projects**
+- 💬 Ask me about **Python, FastAPI, system design, and LLM application engineering**
+- ⚡ Fun fact: **Most complex systems are easier to reason about when you think in graphs**
 
 ## 🔗 Connect with me
 <p align="left">
