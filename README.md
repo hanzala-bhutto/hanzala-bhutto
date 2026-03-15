@@ -25,16 +25,54 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark)](https://skillicons.dev)
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs&theme=dark" alt="Programming Languages" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next,angular,threejs,redux&theme=dark)](https://skillicons.dev)
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,threejs,redux&theme=dark" alt="Frontend" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,flask,fastapi,spring&theme=dark)](https://skillicons.dev)
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs,spring&theme=dark" alt="Backend" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,firebase&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,bitbucket,linux,ai,notion,vscode,visualstudio,replit,powershell,jest,postman,figma&theme=dark)](https://skillicons.dev)
 
+<h3>Databases & Vector Stores</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,redis&theme=dark" alt="Databases" />
+  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/Neo4j-Dark.svg" alt="Neo4j" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/Qdrant.svg" alt="Qdrant" width="48" height="48" />
+</p>
+
+<h3>Architecture & Messaging</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Architecture and Messaging" />
+  <img src="https://img.shields.io/badge/Monorepo_Architecture-181717?style=for-the-badge&logo=nx&logoColor=white" alt="Monorepo Architecture" />
+  <img src="https://img.shields.io/badge/Event--Driven_Systems-0A66C2?style=for-the-badge" alt="Event-Driven Systems" />
+</p>
+
+<h3>AI / LLM</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="AI" />
+  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/OpenAI.svg" alt="OpenAI" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/ClaudeAI-Dark.svg" alt="Claude" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/Langchain-Dark.svg" alt="LangChain" width="48" height="48" />
+</p>
+
+<h3>DevOps & Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,aws,azure,linux,bash,githubactions,gitlab,jenkins&theme=dark" alt="DevOps and Cloud" />
+</p>
+
+<h3>Testing & Tooling</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,jest,git,github,bitbucket,vscode,visualstudio,figma,powershell,notion&theme=dark" alt="Testing and Tooling" />
+</p>
 
 ## 📊 Github Stats
 
