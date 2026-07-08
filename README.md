@@ -27,7 +27,7 @@
 
 <h3>Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs,go&theme=dark" alt="Programming Languages" />
 </p>
 
 <h3>Frontend</h3>
@@ -44,9 +44,7 @@
 
 <h3>Databases & Vector Stores</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,redis&theme=dark" alt="Databases" />
-  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/Neo4j-Dark.svg" alt="Neo4j" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons/Qdrant.svg" alt="Qdrant" width="48" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite,mongodb,firebase,redis,neo4j,qdrant" />
 </p>
 
 <h3>Architecture & Messaging</h3>
@@ -85,11 +83,6 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/hanzala-bhutto">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=hanzala-bhutto&theme=radical"/>
-</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/hanzala-bhutto">
