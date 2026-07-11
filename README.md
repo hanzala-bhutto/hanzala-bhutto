@@ -9,7 +9,7 @@ Hey, I'm Hanzala 👋
 - I build RAG and agentic systems that survive real users, not just demos
 - The part I love is what happens after the notebook: evals, guardrails, observability
 - Full-stack, so I ship the whole thing: retrieval, orchestration, backend, and UI
-- Based in Dresden 🇩🇪, open to new roles
+- Open to new roles in Germany
 
 ### What I'm into right now
 
